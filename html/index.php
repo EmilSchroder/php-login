@@ -3,11 +3,12 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<title></title>
-</head>
-<body>
-This is the body
-</body>
+    <head>
+    <link rel='stylesheet' type='text/css' href='main.css'/>
+    <title></title>
+    </head>
+    <body>
+
+    </body>
 <html>
 
